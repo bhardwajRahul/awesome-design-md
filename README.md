@@ -52,9 +52,12 @@ Tools, platforms, and services for designing and shipping web apps with AI.
 
 <a href="https://github.com/VoltAgent/voltagent">
 <img height="80" alt="voltagent-banner" src="https://github.com/user-attachments/assets/7196f50b-ca98-494c-8aa0-11e111c49f96" />
+
+You can use VoltAgent to build and run AI agents in TypeScript. It handles tool use, memory, and multi-agent coordination.
+
 </a>
 
-<br/>
+
 <br/>
 
 <div align="center">
@@ -63,7 +66,7 @@ Tools, platforms, and services for designing and shipping web apps with AI.
 <tr>
 <td align="center" width="100%">
 
-<h4> Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
+<h4>👉 Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
 
 [**Get featured here →**](https://sponsors.voltagent.dev/#awesome-design-md)
 
